@@ -1,5 +1,7 @@
-# Spectral Product Algorithm 
+# Spectral Product Algorithm
 
+m
+*
 
 
 ### We are going to estimate the F0 of this multipitch piano sample: A3 C4 E4 G4
